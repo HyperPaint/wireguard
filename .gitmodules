@@ -1,0 +1,6 @@
+[submodule "wireguard-server/hyperpaint-bash-docker-lib"]
+	path = wireguard-server/hyperpaint-bash-docker-lib
+	url = git@github.com:HyperPaint/bash-docker-lib.git
+[submodule "wireguard-client/hyperpaint-bash-docker-lib"]
+	path = wireguard-client/hyperpaint-bash-docker-lib
+	url = git@github.com:HyperPaint/bash-docker-lib.git
